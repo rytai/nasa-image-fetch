@@ -1,3 +1,0 @@
-# nasa-image-fetch
-
-testihommia
