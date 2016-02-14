@@ -3,5 +3,5 @@
 testihommia
 
 Depedencies:
-Beautifulsoup for python:
-  In ubuntu: sudo apt-get install python-beautifulsioup
+Beautifulsoup 4 for python:
+  In ubuntu: sudo apt-get install python-bs4
