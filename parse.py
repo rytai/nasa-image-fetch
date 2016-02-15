@@ -3,7 +3,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 def main():
-	url = "http://mars.nasa.gov/mer/gallery/all/opportunity_p4286_text.html"
+	url = "http://mars.nasa.gov/mer/gallery/all/opportunity_p4287_text.html"
 	data = urllib2.urlopen(url).read()
 	soup = BeautifulSoup(data)
 
